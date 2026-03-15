@@ -1,0 +1,8 @@
+videos ke liye alag se krdo
+weights for time and gps play
+jiske humpe gps nahi hai usko kese krenge
+lat/lon to address google maps api try
+how to make this into application
+how other user can use this
+readme
+
