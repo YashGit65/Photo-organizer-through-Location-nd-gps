@@ -71,7 +71,7 @@ def run_pipeline(source_dir, dest_dir, db_path="photos.db", eps=0.5, min_samples
     print("Pipeline Complete!")
 
 if __name__ == "__main__":
-    SOURCE_DIRECTORY = "photo_folder"
+    SOURCE_DIRECTORY = "sonbhadra"
     DESTINATION_DIRECTORY = "./organized_events"
     DATABASE_FILE = "photos.db"
     

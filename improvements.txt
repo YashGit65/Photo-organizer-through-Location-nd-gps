@@ -2,7 +2,15 @@ videos ke liye alag se krdo
 weights for time and gps play
 jiske humpe gps nahi hai usko kese krenge
 lat/lon to address google maps api try
-how to make this into application
+how to make this into application....how it will access the  folder?
 how other user can use this
 readme
+zip files done
+
+
+#second day
+added rescuer function 
+----agar kisi pe sirf date hai or agar kisi pe sirf gps hai toh woh aa jaenge apne sabse paas wale pe time ke paas sabse pehle time wala aa jarega and gps ke paas sbse pehle gps wala aa jaega
+---organized the manual sorting into videos and miscallenous
+--improved code logic
 
