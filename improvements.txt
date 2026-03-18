@@ -1,11 +1,17 @@
-videos ke liye alag se krdo
-weights for time and gps play
-jiske humpe gps nahi hai usko kese krenge
 lat/lon to address google maps api try
 how to make this into application....how it will access the  folder?
 how other user can use this
 readme
-zip files done
+
+
+--long imporvements
+sort videos also
+
+
+
+--task next day
+how to do for app streamlit ui?
+second phase start object collages , yolo object detect embedding, worlkflows copy me jo hai 
 
 
 #second day
@@ -13,4 +19,9 @@ added rescuer function
 ----agar kisi pe sirf date hai or agar kisi pe sirf gps hai toh woh aa jaenge apne sabse paas wale pe time ke paas sabse pehle time wala aa jarega and gps ke paas sbse pehle gps wala aa jaega
 ---organized the manual sorting into videos and miscallenous
 --improved code logic
+
+
+
+steps to add exe
+pyinstaller --onefile --name "Organizer" --icon "logo.ico" --splash "splash.png" --hidden-import geopy.geocoders --collect-data certifi main.py
 
